@@ -2,9 +2,9 @@
 ## About Me
 Hi, I'm Jonathan!
 
-This portfoilio aims to showcase my well-rounded skillset with tools such as Python, Tableau and R utilised across several projects. I follow a personal mantra of “if a job is worth doing, it’s worth doing properly” and in my projects as a data analyst so far, I’ve found it to fit perfectly with tasks like data cleaning and web-scraping where this rigour leads to the most reproducible results. 
+This portfoilio aims to showcase my well-rounded skillset with tools such as Python, Tableau and R utilised across several projects. I follow a personal mantra of “if a job is worth doing, it’s worth doing properly” and in my projects as a data analyst so far, I’ve found it to fit perfectly with tasks like data cleaning and web-scraping where the integrity and rigour from my approach leads to the most reproducible results. 
 
-I want to grow as an analyst together with an organisation which enables its people to make a positive change for society by providing the data-driven insights needed to make confident and informed decisions.    
+I want to grow as an analyst together with an organisation which enables its people to make a positive change for society by providing the data-driven insights needed to make confident and informed decisions. My background in education and coaching allows me to draw on my ability to build rapport, empathise, and communicate to create impactful data stories.      
 
 In my spare time I love to do/play/watch sports: backcountry skiing, bikepacking, golf, football, MMA are my main go-to's but I'll hapilly try anything. I've got a deep interest in history and enjoy documentaries or good books that tell the best stories!
 
