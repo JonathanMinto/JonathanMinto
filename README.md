@@ -12,6 +12,7 @@ In my spare time I love to do/play/watch sports: backcountry skiing, bikepacking
 [Bank of England Consultancy](https://github.com/JonathanMinto/Bank-of-England)
 
 ## Connect with me
+https://www.linkedin.com/in/jonathanminto/ 
 <!--
 **JonathanMinto/JonathanMinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
