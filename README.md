@@ -11,6 +11,8 @@ In my spare time I love to do/play/watch sports: backcountry skiing, bikepacking
 ## Portfolio Projects
 [Bank of England Consultancy](https://github.com/JonathanMinto/Bank-of-England)
 
+[NHS - GP Analysis](https://github.com/JonathanMinto/NHS)
+
 ## Connect with me
 https://www.linkedin.com/in/jonathanminto/ 
 <!--
