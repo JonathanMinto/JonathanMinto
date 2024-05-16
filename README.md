@@ -2,7 +2,7 @@
 ## Introduction
 Hi, I'm Jonathan!
 
-This portfoilio aims to showcase my analytical thinking skills, outlining my end to end process from carefully assessing stakeholder needs by defining the business problem, data cleaning and wrangling steps, and finally pitching and delivery of insights. I also aim to demonstrate my well-rounded technical skillset with tools such as Python, Tableau and R utilised across several projects. 
+This portfoilio showcases my analytical thinking skills, outlining my end to end process from carefully assessing stakeholder needs by defining the business problem, data cleaning and wrangling steps, and finally pitching and delivery of insights. It demonstrates my well-rounded technical skillset with tools such as Python, Tableau and R utilised across several projects. 
 
 I follow a personal mantra of “if a job is worth doing, it’s worth doing properly” and in my projects as a data analyst so far, I’ve found it to fit perfectly with tasks like data cleaning and web-scraping where the integrity and rigour of my approach leads to reproducible and actionable results. I can draw on my ability to build rapport and communicate to tell impactful data stories from my previous career in education and coaching.
 
