@@ -14,4 +14,4 @@ In my spare time I love to do/play/watch sports: backcountry skiing, bikepacking
 [NHS - GP Analysis](https://github.com/JonathanMinto/NHS)
 #
 ## Contact
-I'm currently looking for a full-time role, so I'd love to discuss any opportunites you may have either on [LinkedIn](https://www.linkedin.com/in/jonathanminto/) or by email at jonminto@live.com 
+I'm currently looking for a full-time role, so I'd love to discuss any opportunites you may have either on [LinkedIn](https://www.linkedin.com/in/jonathanminto/) or by email: jonminto@live.com 
